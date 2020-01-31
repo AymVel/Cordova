@@ -1,0 +1,28 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-mapbox": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-mapbox@^1.2.3"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ACCESS_TOKEN": "pk.eyJ1IjoiYXltdmVsIiwiYSI6ImNrNW53d2R5bzBmeXYzbG5zc2syNHg4OXMifQ.NdFq4nxUMGOwvrZJcWA5Iw"
+    }
+  },
+  "cordova-plugin-geolocation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-geolocation@^4.0.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-mapbox": {
+      "ACCESS_TOKEN": "pk.eyJ1IjoiYXltdmVsIiwiYSI6ImNrNW53d2R5bzBmeXYzbG5zc2syNHg4OXMifQ.NdFq4nxUMGOwvrZJcWA5Iw",
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    }
+  },
+  "dependent_plugins": {}
+}
